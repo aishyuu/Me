@@ -51,7 +51,7 @@ export default {
             name: 'comments',
             title: 'Comments',
             type: 'array',
-            of: [{type: 'save'}]
+            of: [{type: 'comment'}]
         },
     ]
 }
